@@ -11,5 +11,4 @@ public class Parcel {
         System.out.println("Посылка "+type+" имеет максимальные размеры "+length+"x"
                 +width+"x"+depth+" и максимальный вес "+weight);
     }
-
 }
